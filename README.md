@@ -81,6 +81,10 @@
 </p>
 </details>
 
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/Jnanesh124/FilterBot-7&branch=koyeb&name=urlshortautofilterbot)
+
+
+
   ## CREATED BY
  
 * [Jnanesh gowda t n ](https://t.me/Beastonejnanesh)
